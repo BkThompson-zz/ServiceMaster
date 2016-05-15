@@ -1,0 +1,38 @@
+name = HQ Base: Service Master 2016 Redesign
+
+description = Adaptive Responsive Redesign 
+
+base theme = hq_base_fluid
+
+core = 6.x
+
+engine = phptemplate
+
+; Regions
+regions[hero] = Hero
+regions[left] = Left sidebar
+; regions[right] = Right sidebar
+
+; Client CSS 
+; stylesheets[all][] = client_files/css/global.css
+
+; BW CSS
+stylesheets[all][] = servicemaster_2016_style.css
+
+; Client JS in page.tpl.php
+
+
+; Toggle these theme features. See http://drupal.org/node/171205
+features[] = logo
+features[] = favicon
+features[] = primary_links
+
+; These last two disabled by redefining the
+; above defaults with only the needed features.
+; features[] = name
+; features[] = search
+; features[] = secondary_links
+; features[] = slogan
+; features[] = mission
+; features[] = node_user_picture
+; features[] = comment_user_picture

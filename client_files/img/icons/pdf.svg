@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="31px" height="31px"
+	 viewBox="-30.5 24 31 31" style="enable-background:new -30.5 24 31 31;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#0072CE;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#0072CE;}
+</style>
+<title>Group</title>
+<desc>Created with Sketch.</desc>
+<path id="Rectangle-82" class="st0" d="M-25,28c0-1.1,0.9-2,2-2h9v9h9v16c0,1.1-0.9,2-2,2h-16c-1.1,0-2-0.9-2-2V28z"/>
+<rect id="Rectangle-89" x="-18" y="27" class="st1" width="12" height="10"/>
+<path id="Rectangle-82-Copy-6" class="st0" d="M-14,27c0-1.1,0.6-1.4,1.4-0.6l7.2,7.2C-4.6,34.4-4.9,35-6,35h-6c-1.1,0-2-0.9-2-2V27
+	z"/>
+<g id="Rectangle-91-Copy-_x2B_-Rectangle-91-Copy-2-_x2B_-Rectangle-91-Copy-3" transform="translate(2.000000, 11.000000)">
+	<path id="Rectangle-91-Copy" class="st2" d="M-23,34h12c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-12c-0.6,0-1-0.4-1-1l0,0
+		C-24,34.4-23.6,34-23,34z"/>
+	<path id="Rectangle-91-Copy-4" class="st2" d="M-13.5,37.8l1.7-2.9c0.3-0.5,0.9-0.6,1.4-0.4l0,0c0.5,0.3,0.6,0.9,0.4,1.4l-1.7,2.9
+		c-0.3,0.5-0.9,0.6-1.4,0.4l0,0C-13.6,38.9-13.8,38.3-13.5,37.8z"/>
+	<path id="Rectangle-91-Copy-5" class="st2" d="M-22.8,38.8l-1.7-2.9c-0.3-0.5-0.1-1.1,0.4-1.4l0,0c0.5-0.3,1.1-0.1,1.4,0.4l1.7,2.9
+		c0.3,0.5,0.1,1.1-0.4,1.4l0,0C-21.9,39.4-22.5,39.3-22.8,38.8z"/>
+	<path id="Rectangle-91-Copy-6" class="st2" d="M-15.5,28h-2.7c-0.6,0-1-0.4-1-1l0,0c0-0.6,0.4-1,1-1h2.7c0.6,0,1,0.4,1,1l0,0
+		C-14.5,27.6-14.9,28-15.5,28z"/>
+	<path id="Rectangle-91-Copy-2" class="st2" d="M-22.5,37.3l6-10.4c0.3-0.5,0.9-0.6,1.4-0.4l0,0c0.5,0.3,0.6,0.9,0.4,1.4l-6,10.4
+		c-0.3,0.5-0.9,0.6-1.4,0.4l0,0C-22.6,38.3-22.8,37.7-22.5,37.3z"/>
+	<path id="Rectangle-91-Copy-3" class="st2" d="M-17.8,26.9l6,10.4c0.3,0.5,0.1,1.1-0.4,1.4l0,0c-0.5,0.3-1.1,0.1-1.4-0.4l-6-10.4
+		c-0.3-0.5-0.1-1.1,0.4-1.4l0,0C-18.7,26.2-18,26.4-17.8,26.9z"/>
+</g>
+</svg>

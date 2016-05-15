@@ -1,0 +1,1043 @@
+
+/* GLOABL */
+a.active {
+    color: #F4364C;
+}
+
+#bw_tag {
+  text-align: right;
+}
+
+ .page-newsroom-home  .layout-2-col .col-3 {
+  width: 25%;
+}
+
+.cd-primary-nav li + li + li  ul.investors-submenu li a{
+  display: none;
+}
+.cd-primary-nav li + li + li  ul.investors-submenu li  + li + li a {
+  display: inherit;
+}
+
+#cd-primary-nav a.active {
+  color: #f4364c;
+}
+
+ 
+#block-panels_mini-search_sidebar_block h2 {
+  font-size: 1.125rem;
+  margin-top: 10px;
+  margin-bottom: 0;
+  display: none;
+}
+
+#block-panels_mini-search_sidebar_block  .hq-row {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+
+#block-panels_mini-search_sidebar_block label {
+  display: none;
+}
+
+#block-panels_mini-search_sidebar_block #edit-keys-wrapper,
+#block-panels_mini-search_sidebar_block #edit-keys-1-wrapper {
+  margin-top: 10px;
+}
+
+#block-panels_mini-search_sidebar_block #edit-keys-wrapper input#edit-submit,
+#block-panels_mini-search_sidebar_block #edit-keys-wrapper input#edit-submit-1 {
+  border: 2px solid;
+  border-radius: 0.5rem;
+  color: #0072ce;
+  background-color: #fff;
+  margin: 1rem 0.5rem 1rem 0;
+  padding: 0.4rem 1rem;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  -moz-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+  display: none;
+}
+
+#block-panels_mini-search_sidebar_block #edit-keys-wrapper input#edit-submit:hover,
+#block-panels_mini-search_sidebar_block  #edit-keys-wrapper input#edit-submit-1:hover {
+  color: #f4364c
+}
+
+#block-panels_mini-search_sidebar_block #edit-keys,
+#block-panels_mini-search_sidebar_block  #edit-keys-wrapper #edit-keys-1 {
+  border: 2px solid;
+  border-radius: 0.5rem;
+  color: #0072ce;
+}
+
+/* Header Navigation */
+
+/*
+.company-submenu {
+  margin-right: 16.7% !important;
+}
+
+.investors-submenu {
+  margin-right: 29.3% !important;
+}
+*/
+
+.breadcrumbs li:before {
+  content: "\00a0";
+}
+
+.breadcrumbs li + li + li { 
+  display: none !important;
+}
+
+.breadcrumbs li + li:after {
+  content: "\00a0";
+}
+
+
+/* Primary Navigation */
+
+.aside-secondary li {
+  font-size: 1.125rem;
+  padding-bottom: 0.5rem;
+}
+
+.aside-secondary ul{
+  font-weight: 500;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+ #block-block-2 p a {
+  font-weight: 500;
+}
+
+/* ----- NEWSROOM HOME ----- */
+
+.page-newsroom-home .breadcrumbs {
+  display: none;
+}
+
+.page-newsroom-home .hq-row {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.front .card__post-date em {
+  font-style: normal;
+}
+
+
+
+/* Financial News Section */
+
+.financial-news-teaser  .views-field-title {
+  min-height: 360px;
+  border-bottom: 4px solid #eee;
+  border-color: #0072ce;
+   background-color: #0072ce;
+}
+
+.financial-news-teaser  .views-field-title:hover {
+  background: #4095da none repeat scroll 0 0;
+  color: #fff;
+  text-shadow: none;
+}
+
+.financial-news-teaser  .views-field-title span a{
+  color: #fff;
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin-bottom: 3rem;
+  margin:  0 15px 0 15px;
+  display: block;
+  padding-top: 6rem;
+  line-height: 1.25em;
+}
+
+.financial-news-teaser  .more-link {
+  font-size: 1.125rem;
+  font-weight: 700;
+  text-align: left;
+  padding-top: 5px;
+}
+
+.financial-news-teaser  .views-field-title span a:before {
+  content: " Press Release ";
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  display: block;
+  padding-bottom: 5px;
+}
+
+.financial-news-teaser .views-field-created span {
+  margin-top: -45px;
+  position: absolute;
+  font-size: 0.875rem;
+  color: #fff;
+  padding-left: 15px;
+}
+
+.financial-news-teaser .views-field-title span a:before {
+  content: " Press Release ";
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.financial-news-teaser  .views-field-created span em {
+  font-style: normal;
+}
+
+/* Node Type Press Release */
+
+.node-type-press-release .pane-node-terms h1,
+.node-type-press-release .pane-field-press-release-city h1{
+  display: none;
+}
+
+.node-type-press-release .pane-field-press-release-contact-html h1 {
+  font-size: 1.875em;
+  margin-bottom: 0.5rem;
+
+}
+
+.node-type-press-release .breadcrumbs li + li + li {
+  display: none;
+}
+
+.node-type-press-release .breadcrumbs li + li::after {
+  color: #a7a8aa;
+  content: " ";
+  display: inline;
+}
+
+.node-type-press-release .bw-pull-quote {
+  float: right;
+  font-size: 110%;
+  font-weight: normal;
+  line-height: 140%;
+  padding: 0.25em 0;
+  border-left: 6px solid #f4364c;
+  margin: 3rem 0 3rem 1rem;
+  padding: 0 0 0 1.5rem;
+  width: auto;
+  border-bottom: none;
+  border-top: none;
+}
+
+.node-type-press-release .pane-node-terms a {
+  display: none
+}
+
+.node-type-press-release .field-field-press-release-city .field-item {
+  display: none;
+}
+
+.node-type-press-release .pane-node-date .pane-content {
+  color: #a7a8aa;
+  font-size: 1.1875rem;
+}
+
+.node-type-press-release .links {
+  display: none;
+}
+
+.node-type-press-release .field-field-press-release-subheadline p .bwuline  i b {
+  font-size: 1.375rem;
+  font-style: normal;
+}
+
+.node-type-press-release .field-field-press-release-subheadline .bwuline {
+  text-decoration: none;
+}
+
+.node-type-press-release .field-field-press-release-subheadline ul li {
+  list-style-type: square;
+  margin-left: 2em;
+  margin-bottom: 0.75em; 
+}
+
+.node-type-press-release .field-field-press-release-subheadline ul li i b {
+  font-style: normal;
+  font-weight: 400; 
+}
+
+.node-type-press-release .pane-field-press-release-contact-html h1 {
+  font-size: 1.875em;
+  margin-bottom: 0.5rem;
+}
+
+.node-type-press-release .bw-toolbar {
+  display: none;
+}
+
+.node-type-press-release  #content .hq-inner ul {
+  list-style-type: square;
+  margin-left: 2em;
+  padding-top: 20px;
+}
+
+.node-type-press-release #content .hq-inner ul li {
+  margin-bottom: 0.75em;
+}
+
+/* Financial Reports */
+
+.page-financial-reports .table-list__li--title h1 {
+  font-size: 1.875rem;
+  margin-top: 50px;
+}
+
+.page-financial-reports .views-field-title a {
+  font-weight: 700;
+}
+
+.page-financial-reports .table-list__li--title ul li {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem !important;
+}
+
+.page-financial-reports .table-list-two ul li {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 2.5rem !important;
+  padding-top: 0.75rem !important;
+}
+
+.page-financial-reports .views-field-title a {
+  font-weight: 700; 
+}
+
+.page-financial-reports .table-list__li--title {
+  display: block;
+  float: left;
+  margin-right: 6.64452%;
+  width: 100%;
+}
+
+.page-financial-reports .views-field-teaser tbody tr td a{
+  border: 2px solid #0072ce;
+  border-radius: 0.5rem;
+  color: #0072ce;
+  display: inline-block;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 1rem 0.5rem 1rem 0;
+  padding: 0.4rem 1rem;
+  position: relative;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out 0s;
+}
+
+.page-financial-reports .views-field-teaser tbody tr td a:hover{
+  border-color: #0072ce;
+  color: #0072ce;
+}
+
+.page-financial-reports .views-field-teaser tbody tr td a:hover {
+  border-color: #f4364c;
+  color: #f4364c;
+}
+
+.page-financial-reports .views-field-teaser tbody tr + tr + tr td a:hover {
+  border-color: #f4364c !important;
+}
+
+.page-financial-reports .views-field-teaser tbody tr  {
+  float: left;
+}
+
+.page-financial-reports .views-field-teaser tbody tr + tr  {
+  float: right;
+}
+
+/* .page-financial-reports .views-field-teaser tbody tr + tr td a */
+.page-financial-reports .views-field-teaser a[href$=".pdf"],
+.page-financial-reports .views-field-teaser a[href$=".PDF"]{
+  background: rgba(0, 0, 0, 0) url("/sites/servicemaster.investorhq.businesswire.com/themes/servicemaster_investorhq_2016/client_files/img/icons/pdf.svg") no-repeat scroll 0 0;
+  height: 30px;
+  padding-left: 35px;
+  padding-right: 25px;
+  margin-right: 25px;
+}
+
+.page-financial-reports .views-field-teaser tbody tr + tr + tr td a{
+  background: none !important;
+  height: 39px;
+}
+
+.page-financial-reports .views-field-teaser tbody tr + tr  td a {
+  margin-left: 10px;
+}
+
+.page-financial-reports .views-field-teaser tbody tr + tr td a  {
+  border: none !important ;
+}
+
+.page-financial-reports .views-field-teaser tbody tr + tr + tr td a   {
+  border: 2px solid  #0072ce !important;
+}
+
+
+/* Annual Reports */
+
+.page-annual-reports .views-field-title span a{
+  font-weight: 700;
+}
+
+.page-annual-reports .view-bw-report ul li img {
+  margin-top: 50px;
+  width: 425px;
+  margin-bottom: 1.25em;
+}
+.page-annual-reports .hq-fluid img {
+  width: 100%;
+}
+
+/* Node Type Reports */
+
+.node-type-report tbody tr td a {
+  font-size: 1.125rem;
+}
+
+.node-type-report table {
+  margin-top: 0px;
+}
+
+
+.node-type-report .bw-toolbar,
+.node-type-event .bw-toolbar {
+  display: none;
+} 
+
+
+.node-type-report .hq-row {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* ----- STOCK INFORMATION PAGE ----- */
+
+.page-stock-information #qmContainer * {
+  max-width: none !important;
+}
+
+.page-stock-information .qm_mainCont {
+  width: auto !important;
+}
+
+
+/* ----- SHAREHOLDER SERVICE PAGE ----- */
+
+.contact-shareholder-services .title {
+  display: block;
+  margin-bottom: -10px
+}
+
+.contact-shareholder-services strong {
+  font-size: 1.125rem;
+}
+
+.contact-shareholder-services .investor-relations-sec {
+  display: block;
+  float: left;
+  font-size: 16px;
+  margin-right: 10.3093%;
+  width: 44.8454%;
+}
+
+.transfer-sec, .indep-sec {
+  font-size: 16px;
+}
+
+.indep-sec {
+  display: inline-block;
+}
+
+.contact-shareholder-services .breadcrumbs li + li + li {
+  display: none;
+}
+
+.contact-shareholder-services .breadcrumbs li + li + li + li{
+  display: inline;
+}
+
+
+#block-panels_mini-tertiary_icon_links h2 {
+  display: none;
+}
+
+/* Social Media Icons */
+
+.contact-shareholder-services .layout-3-col .aside-tertiary,
+.node-type-event .layout-3-col .aside-tertiary,
+.node-type-press-release .layout-3-col .aside-tertiary,
+.node-type-report .layout-3-col .aside-tertiary {
+  width: auto;
+}
+
+.contact-shareholder-services .hq-row {
+  margin: 0;
+  padding: 0
+}
+
+
+.contact-shareholder-services #edit-submit {
+  border: 2px solid #0072ce;
+  background-color: #fff;
+  border-radius: 0.5rem;
+  color: #0072ce;
+  display: inline-block;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 1rem 0.5rem 1rem 0;
+  padding: 0.4rem 1rem;
+  position: relative;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out 0s;
+}
+
+.contact-shareholder-services #edit-submit:hover {
+  color: #f4364c;
+  border: 2px solid #f4364c;
+}
+
+.contact-shareholder-services .links.inline a{
+  display: none;
+}
+
+/* ----- TAB NAVS ----- */
+
+.tab-nav a {
+  text-transform: capitalize;
+  font-weight: 700;
+  display: inline-block;
+}
+
+.tab-nav a.active {
+  color: #f4364c;
+  border-bottom: 3px solid #f4364c;
+}
+
+/* Removes scrollng */
+
+.page-press-releases .pane-navigation-bar {
+  overflow: hidden;    
+}
+
+.page-sec-filings .tab-nav a.company{
+border-color: #f4364c;
+}
+
+.page-sec-filings .tab-nav p a.company {
+  color: #f4364c
+}
+
+.page-sec-filings1 .tab-nav a.other{
+  border-color: #f4364c;
+}
+
+.page-sec-filings1 .tab-nav p a.other {
+  color: #f4364c;
+}
+
+
+/* Press Releases */
+.page-press-releases .pane-navigation-bar a + a + a + a + a + a + a {
+  display: none;
+}
+
+
+/* Pager */
+
+li.pager-current:before {
+  content: "" ;
+  font-family: icon-font;
+  font-size: 1rem;
+  padding-right: 0.5rem ;
+  vertical-align: top;
+}
+
+li.pager-current:after {
+  content: "Newer" ;
+  font-size: 1rem ;
+  line-height: 1.5;   
+}
+  
+li.pager-item,
+li.pager-first,
+li.pager-last{
+  display: none !important; 
+}
+
+.item-list .pager {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+.item-list .pager:before {
+  position: relative;
+  display: table;
+  overflow: hidden;
+  width: 100%;
+  content: '';
+  box-sizing: content-box;
+  height: 2px;
+  border: none;
+  background-color: #EEE;
+  margin: 2.5rem 0;
+}
+
+.item-list .pager li {
+  margin: 0;
+  padding: 0;
+}
+.item-list .pager li.pager-current {
+  display: none;
+}
+
+.item-list .pager a {
+  border: 2px solid;
+  border-radius: 0.5rem;
+  display: inline-block;
+  color: #0072ce;
+  font-size: 0;
+  margin: 1rem 0.5rem 1rem 0;
+  padding: 0.4rem 1rem;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  -moz-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+}
+.item-list .pager a:hover {
+  color: #F4364C;
+}
+
+.pager-previous a:before {
+  content: "\e900";
+  padding-right: 0.5rem;
+  font-family: icon-font;
+  font-size: 1rem;
+  vertical-align: top;
+}
+.pager-previous a:after {
+  content: "Newer";
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.pager-next a:before {
+  content: "Older";
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.pager-next a:after {
+  content: "\e901";
+  padding-left: 0.5rem;
+  font-family: icon-font;
+  font-size: 1rem;
+  vertical-align: top;
+}
+
+
+.item-list .pager .pager-previous:empty,
+.item-list .pager .pager-next:empty {
+  color: #A7A8AA;
+  border: 2px solid #A7A8AA;
+  border-radius: 0.5rem;
+  display: inline-block;
+  margin: 1rem 0.5rem 1rem 0;
+  padding: 0.4rem 1rem;
+  height: auto;
+  font-size: 0;
+}
+
+.pager-previous:empty:before {
+  content: "\e900";
+  padding-right: 0.5rem;
+  font-family: icon-font;
+  font-size: 1rem;
+  vertical-align: top;
+}
+
+.pager-previous:empty:after {
+  content: "Newer";
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.pager-next:empty:before {
+  content: "Older";
+  font-size: 1rem;
+  line-height: 1.5;
+} 
+
+.pager-next:empty:after {
+  content: "\e901";
+  padding-left: 0.5rem;
+  font-family: icon-font;
+  font-size: 1rem;
+  vertical-align: top;
+}
+
+
+/* ----- STOCK INFORMATION PAGE ----- */
+
+.page-stock-information h2 {
+  display: none;
+}
+
+.page-stock-information .qm_navbar-left {
+  float: left;
+  padding: 0px ;
+}
+
+.page-stock-information .qm_mainCont {
+  margin: 0 ;
+
+}
+.page-stock-information .qm_chart_cont {
+  padding: 0 
+}
+
+.page-stock-information .qmContent input {
+  width: auto;
+  padding: 5px;
+}
+
+/* ----- ANALYST COVERAGE PAGE ----- */
+
+.single-column-list__ul {
+  font-size: 1.125rem;
+}
+
+.single-column-list__ul .email{
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+.single-column-list__ul .email.last{
+  border-bottom: none;
+}
+
+.single-column-list__ul .firm{
+  padding-top: 1rem;
+}
+
+
+/* ----- EVENTS PAGE  ----- */
+
+.page-events-calendar .hq-cols-1 h1 {
+  font-size: 1.875em;
+}
+
+.page-events-calendar .view-id-bw_event li {
+  padding-bottom: 1.5rem !important;
+  padding-top: 1.5rem !important;
+}
+
+.page-events-calendar .view-id-bw_event .views-row {
+  border-bottom: 2px solid #eeeeee;
+}
+
+
+.page-events-calendar .view-id-bw_event li .view-inner-wrapper > div {
+display: block;
+  float: left;
+}
+
+.page-events-calendar .view-id-bw_event li .view-inner-wrapper > div:nth-child(1n) {
+width: 20%;
+}
+.page-events-calendar .view-id-bw_event li .view-inner-wrapper > div:nth-child(2n) {
+  width: 44%;
+}
+.page-events-calendar .view-id-bw_event li .view-inner-wrapper > div:nth-child(3n) {
+  width: 36%;
+}
+
+.page-events-calendar .view-id-bw_event span a {
+  font-weight: 700;
+}
+
+.page-events-calendar .view-id-bw_event .filefield-file img {
+  display: none;
+}
+
+.page-events-calendar .view-id-bw_event .filefield-file a {
+  background: url("/sites/servicemaster.investorhq.businesswire.com/themes/servicemaster_investorhq_2016/client_files/img/icons/pdf.svg") no-repeat scroll 0 0% rgba(0, 0, 0, 0);
+  display: inline-block;
+  padding-left: 35px;
+  height: 30px;
+}
+
+.page-events-calendar .view-id-bw_event .filefield-file {
+  font-size: 0
+}
+
+.page-events-calendar .view-id-bw_event .filefield-file a {
+  font-size: 1.125rem;
+}
+
+/* Node Type Event */
+
+.bw-multizone-date span {
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.bw-event-date .bw-multizone-date{
+  float: left;
+  width: 50%;
+}
+
+
+.bw-event-date .bw-multizone-date + .bw-multizone-date + .bw-multizone-date {
+  display: none;
+}
+
+.pane-field-event-speaker {
+  display: inline-block;
+}
+
+.bw-event-date .bw-multizone-date + .bw-multizone-date + .bw-multizone-date span {
+  display: block;
+}
+
+.bw-multizone-date .head-date-section {
+  width: 80%
+}
+
+.node-type-event .pane-field-event-speaker h1,
+.node-type-event .pane-node-body h1,
+.node-type-event .pane-event-group-event-addl h1{
+  font-weight 700;
+  margin-top: 1.5rem;
+  margin-bottom: 0.45em;
+  font-size: 1.375rem;
+}
+
+.node-type-event .pane-node-terms  {
+  display: none;
+}
+
+.node-type-event .hq-sm {
+  padding-top: 0;
+}
+
+.node-type-event .hq-row {
+  padding-top: 0;
+  margin-top: 0 
+}
+
+
+
+/* ----- SEARCH PAGE ----- */
+
+.page-search h1{
+  font-size: 1.875em;  
+}
+  
+.page-search .hq-inner #search-form {
+  display: none;
+} 
+
+.page-search .pane-apachesolr-sort h1 {
+  margin-bottom: 0;
+ }
+
+  
+.page-search dl.solrsearch_search-results dd {
+  margin: 0;
+}
+
+.page-search .pane-apachesolr-currentsearch ul li {
+  list-style: none;
+}
+
+.page-search dl.form-item dd {
+  margin-left: 0px;
+}
+
+.page-search #bw-search .facetapi-facetapi_links li {
+  list-style: none;
+}
+
+.page-search .pane-apachesolr-sort .item-list ul {
+  display: inline-block;
+}
+
+.page-search .pane-apachesolr-sort .item-list ul li,
+.page-advsearch .pane-apachesolr-sort .item-list ul li {
+  display: inline-block;
+  list-style: none;
+  margin-left: 0px;
+}
+
+.page-search .pane-apachesolr-sort .item-list ul li img,
+.page-advsearch .pane-apachesolr-sort .item-list ul li img {
+  border: none;
+  display: block;
+}
+
+.page-search .pane-apachesolr-sort .item-list ul li + li,
+.page-advsearch .pane-apachesolr-sort .item-list ul li + li {
+  margin-left: 15px;
+}
+
+
+/* Pager - Search Page */
+
+.page-search .pager li.pager-item,
+.page-search .pager li.pager-first,
+.page-search .pager li.pager-last,
+.page-search .pager .pager-ellipsis{
+  display: none;
+}
+  
+.page-search li.pager-previous a {
+  color: #a7a8aa;
+  
+}
+
+/* ----- FOOTER ----- */
+
+#bw_tag a {
+  font-size: 12px;
+}
+
+
+/* ---- Recaptcha fix -- */
+fieldset.captcha table {
+  table-layout: auto !important;
+}
+.recaptcha_input_area {
+  max-height: 34px;
+}
+
+.node-type-webform table tr td a {
+  margin: 0 !important;
+}
+
+
+/* ---- Error Message Fix --- */
+div.error {
+  background-color: transparent;
+  border: 2px solid #f997a2;
+  border-radius: 3px;
+  color: #F4364C;
+  margin: 1rem 0;
+  padding: 25px; 
+}
+
+div.error ul {
+  margin-bottom: 0; 
+}
+
+div.error li {
+  font-size: 1rem; 
+}
+
+
+/* --- QA TICKETS --- */
+
+/* HQSITES-7714 */
+
+/*
+.page-newsroom-home .views-admin-links ul li {
+display: none;
+}
+
+*/
+
+/* HQSITES-7713 */
+
+.page-user .nodetypeterm {
+  font-style: italic;
+  margin-left: 25px;
+  margin-right: 10px;
+}
+
+.page-user  #bw-notifications-simpleui-stock-form .form-item {
+  display: block;
+  margin: 0;
+  padding: 0 10px 0 0;
+  width: 130px;
+}
+
+/* HQSITES-7722 */
+
+
+/* Mobile tables fix */
+div.bw_mobileWideTables {
+  overflow: auto;
+  padding: 5px;
+  margin: 0.5em 0;
+  border: 1px solid #eee;
+}
+
+
+@media all and (min-width: 501px) {
+ .node-type-webform  table {
+      display: initial !important;
+      float: none;
+      width: auto;
+      margin: 0;
+      padding: 0;
+  }
+}
+
+
+@media all and (min-width: 501px) {
+ .node-type-press-release table,
+ .node-type-press-release table tr,
+ .node-type-press-release table tr td {
+      display: run-in;
+      float: none;
+      width: auto;
+      margin: 0;
+      padding: 0;
+  }
+
+  table tr td a {
+      display: block;
+      float: left;
+      margin: 0.25em 0 !important;
+  }
+
+}
+
+@media all and (max-width: 500px) {
+  table,
+  table tr,
+  table tr td {
+      display: run-in;
+      float: none;
+      width: auto;
+      margin: 0;
+      padding: 0;
+  }
+
+  table tr td a {
+      display: block;
+      float: left;
+      margin: 0.25em 0 !important;
+  }
+
+}
+
+/* Investor Mobile Link Fix */
+
+@media only screen and (max-width: 1169px) {
+
+  .cd-primary-nav li + li + li ul.investors-submenu li a {
+    display: inherit;
+  }
+}
+
+
+
+
